@@ -2,25 +2,21 @@
   "name": "functionscript-server",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
-  "engines": {
-    "node": "10.x"
-  },
-  "scripts": {
-    "start": "node index.js",
-    "test": "echo \"Error: no tesgt specified\" && exit 1"
-  },
+  "author": "Steve Meyer",
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/notoriaga/functionscript-server.git"
   },
-  "author": "Steve Meyer",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/notoriaga/functionscript-server/issues"
+  "main": "index.js",
+  "engines": {
+    "node": "10.x"
   },
-  "homepage": "https://github.com/notoriaga/functionscript-server#readme",
   "dependencies": {
     "functionscript": "^1.0.4"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no tesgt specified\" && exit 1"
   }
 }
