@@ -1,0 +1,6 @@
+{
+  "name": "functionscript-server",
+  "description": "Example FunctionScript Server",
+  "repository": "https://github.com/notoriaga/functionscript-server",
+  "env": {}
+}
