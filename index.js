@@ -16,6 +16,8 @@ function start() {
   }
 
   gateway.listen();
+
+  console.log(`Server started on port ${gateway.port}`);
 }
 
 start();
